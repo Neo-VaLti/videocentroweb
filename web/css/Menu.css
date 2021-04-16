@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/04/2018, 10:24:17 AM
+    Author     : OswaldoAbimael
+*/
+
+#mainmenu { 
+    margin:auto;
+    width:900px;
+    font-family: Arial Rounded MT Bold, Arial;
+}
+
+#menuVideojuegos { 
+    margin:auto;
+    width:1000px;
+    font-family: Arial Rounded MT Bold, Arial;
+}
+
+#menuClientes { 
+    margin:auto;
+    width:900px;
+    font-family: Arial Rounded MT Bold, Arial;
+}
+
+#menuInventario { 
+    margin:auto;
+    width:1000px;
+    font-family: Arial Rounded MT Bold, Arial;
+}
+#menuRentas { 
+    margin:auto;
+    width:1000px;
+    font-family: Arial Rounded MT Bold, Arial;
+}
+
+ul, ol  {
+    list-style:none;
+}
+
+.nav li a { 
+    background-color:#fff;
+    color:#000;
+    text-decoration:none;
+    padding:21px 15px;
+    display: block;
+}
+.nav li a:hover { 
+    background-color:#E1DEDE;
+    color:#DF3737;
+}
+
+.nav > li {
+    float:left;
+}
